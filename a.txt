@@ -1,0 +1,4 @@
+//coi cau hinh git
+git config --list
+//tao thu muc an
+git init
